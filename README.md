@@ -1,18 +1,18 @@
-# Seguimiento de autobuses mediante gps neo 6m y gsm SIM900a con arduino
+## Bus tracking using gps neo 6m and gsm SIM900a with arduino
+Bus (vehicle) tracking system using GPS neo 6m, GSM SIM 900a, arduino and google maps. The Project was made for the purposes of bus tracking.
 
-El proyecto se realizó con el propósito de rastrear autobuses de la Universidad de Ciencia y Tecnología de Jashore .
+## Device Used
+* Arduino Uno
+* GPS neo 6m
+* GSM SIM900a
+* Breadbard
+* Some Cable wires &
+* Operator SIM
 
-Dispositivo utilizado
-ArduinoUno
-GPS neo 6m
-GSM SIM900a
-barra de pan
-Algunos cables y
-SIM de operador
-Idiomas utilizados
-C++ para Arduino
-Servidor PHP
-Base de datos MySQL
-javascript
-HTML5 y CSS3
-API de mapas
+## Languages Used
+* C++ for Arduino
+* PHP Backend
+* MySQL Database
+* JavaScript
+* HTML5 & CSS3
+* MAP API
